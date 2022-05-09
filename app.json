@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.lt1800.valorantTracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
